@@ -37,7 +37,7 @@ AWS EC2 Web Server (Live Website)
 ### 🔹 Jenkins Installation and Homepage
 ![Jenkins Installation Success](screenshots/jenkins-homepage.png)
 
-
+### 🔹 Jenkins Pipeline Execution
 ![Pipeline Success](screenshots/jenkins-build.png)
 
 ### 🔹 CI/CD Website Before Automation
