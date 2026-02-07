@@ -27,6 +27,7 @@ Docker Container
    |  (Deploy)
    v
 AWS EC2 Web Server (Live Website)
+```
 
 
 
