@@ -32,22 +32,22 @@ AWS EC2 Web Server (Live Website)
 ## 📸 Project Screenshots
 
 ### 🔹 AWS EC2 Instance Setup
-![EC2 Machine](screenshot/ec2-machine.png)
+![EC2 Machine](screenshots/ec2-machine.png)
 
 ### 🔹 Jenkins Installation and Homepage
-![Jenkins Installation Success](screenshot/jenkins-homepage.png)
+![Jenkins Installation Success](screenshots/jenkins-homepage.png)
 
 ### 🔹 Jenkins Pipeline Execution
-![Pipeline Success](screenshot/jenkins-build.png)
+![Pipeline Success](screenshots/jenkins-build.png)
 
 ### 🔹 CI/CD Website Before Automation
-![Website Before Automation](screenshot/before-automation.png)
+![Website Before Automation](screenshots/before-automation.png)
 
 ### 🔹 GitHub Webhook Configuration
-![Webhook Configuration](screenshot/webhook-config.png)
+![Webhook Configuration](screenshots/webhook-config.png)
 
 ### 🔹 Live Website Deployment
-![Live Website](screenshot/after-final-automation.png)
+![Live Website](screenshots/after-final-automation.png)
 
 ```
 
