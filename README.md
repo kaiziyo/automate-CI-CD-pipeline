@@ -28,7 +28,7 @@ Docker Container
    v
 AWS EC2 Web Server (Live Website)
 ```
-```markdown
+
 ## 📸 Project Screenshots
 
 ### 🔹 AWS EC2 Instance Setup
