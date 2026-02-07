@@ -30,5 +30,19 @@ AWS EC2 Web Server (Live Website)
 ```
 
 
+![Pipeline Success](screenshots/jenkins-build.png)
+
+### 🔹 CI/CD Website Before Automation
+![Website Before Automation](screenshots/before-automation.png)
+
+### 🔹 GitHub Webhook Configuration
+![Webhook Configuration](screenshots/webhook-config.png)
+
+### 🔹 Live Website Deployment
+![Live Website](screenshots/after-final-automation.png)
+
+```
+
+
 
 
