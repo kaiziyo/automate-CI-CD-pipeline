@@ -7,6 +7,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Webhooks-black)
 ![Status](https://img.shields.io/badge/Build-Success-brightgreen)
 
+## 📖 Introduction
+
+In modern software development, manual deployment processes are time-consuming, error-prone, and difficult to scale. DevOps practices aim to solve these challenges by automating the build, test, and deployment lifecycle using Continuous Integration and Continuous Deployment (CI/CD).
+
+This project focuses on implementing a real-world CI/CD pipeline using Jenkins, Docker, and AWS EC2. The goal is to automate application deployment such that any change pushed to the GitHub repository is automatically built and deployed without manual intervention.
+
+
+
+
+
 ## 🏗️ System Architecture
 
 ```text
