@@ -28,22 +28,6 @@ Docker Container
    v
 AWS EC2 Web Server (Live Website)
 
-## 📸 Project Screenshots
 
-### 🔹 AWS EC2 Instance Setup
-![EC2 Machine](screenshot/ec2-machine.png)
 
-### 🔹 Jenkins Installation and Homepage
-![Jenkins Installation Success](screenshot/jenkins-homepage.png)
 
-### 🔹 Jenkins Pipeline Execution
-![Pipeline Success](screenshot/jenkins-build.png)
-
-### 🔹 CI/CD website before Automation
-![Website deployed](screenshot/before-automation.png)
-
-### 🔹 GitHub Webhook Configuration
-![Webhook Configuration](screenshot/webhook-config.png)
-
-### 🔹 Live Website Deployment
-![Live Website](screenshot/after-final-automation.png)
