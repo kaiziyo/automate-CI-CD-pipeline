@@ -28,6 +28,14 @@ Docker Container
    v
 AWS EC2 Web Server (Live Website)
 ```
+```markdown
+## 📸 Project Screenshots
+
+### 🔹 AWS EC2 Instance Setup
+![EC2 Machine](screenshots/ec2-machine.png)
+
+### 🔹 Jenkins Installation and Homepage
+![Jenkins Installation Success](screenshots/jenkins-homepage.png)
 
 
 ![Pipeline Success](screenshots/jenkins-build.png)
